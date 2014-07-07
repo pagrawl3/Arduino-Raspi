@@ -1,0 +1,1 @@
+module.exports=function(e){var r=require("../app/controllers/main");e.get("/*",r.index)};
