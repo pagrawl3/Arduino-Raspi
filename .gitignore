@@ -26,3 +26,6 @@ node_modules
 
 # DS Store Shit
 *.DS_Store
+
+# Remove codekit files
+*.codekit*
